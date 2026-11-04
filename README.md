@@ -6,13 +6,16 @@ Práctica 7 de *Programación de dispositivos móviles* — UPIIT, Instituto Pol
 
 **Autor:** Jassiel Luna Cantu
 
-## Entregables
+## Evidencias de Funcionamiento
+-Pokedex
+<img width="1080" height="2400" alt="Screenshot_2026-11-03-20-29-37-817_com example pokedex_pixel" src="https://github.com/user-attachments/assets/531fd433-21db-497a-8d37-a0454f05e920" />
+-Detalles
+<img width="1080" height="2400" alt="Screenshot_2026-11-03-20-29-42-765_com example pokedex_pixel" src="https://github.com/user-attachments/assets/cd8cfa22-01da-4aac-b71d-20d8c893694c" />
+-Equipos
+<img width="1080" height="2400" alt="Screenshot_2026-11-03-20-29-47-405_com example pokedex_pixel" src="https://github.com/user-attachments/assets/ae3de768-086e-42bd-9f6e-33e281b03dff" />
+-Búsqueda
+<img width="1080" height="2400" alt="Screenshot_2026-11-03-20-29-59-547_com example pokedex_pixel" src="https://github.com/user-attachments/assets/defa2536-3466-4d4a-9cbe-df1b069f8767" />
 
-| Entregable | Enlace |
-|---|---|
-| APK para Android | [agregar enlace] |
-| Video: cómo resolví el infinite scrolling (2 min) | [agregar enlace] |
-| Video: demo funcional en móvil y web (máx. 5 min) | [agregar enlace] |
 
 ## Funciones
 
