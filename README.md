@@ -14,12 +14,6 @@ Práctica 7 de *Programación de dispositivos móviles* — UPIIT, Instituto Pol
 | Video: cómo resolví el infinite scrolling (2 min) | [agregar enlace] |
 | Video: demo funcional en móvil y web (máx. 5 min) | [agregar enlace] |
 
-## Capturas
-
-| Pokédex | Detalle | Equipos | Búsqueda |
-|---|---|---|---|
-| ![Pokédex](docs/capturas/pokedex.png) | ![Detalle](docs/capturas/detalle.png) | ![Equipos](docs/capturas/equipos.png) | ![Búsqueda](docs/capturas/busqueda.png) |
-
 ## Funciones
 
 **Obligatorias**
